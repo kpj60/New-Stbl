@@ -1,0 +1,36 @@
+body {
+    background-color: burlywood;
+    align-content: center;
+
+}
+
+#chatbot {
+    width: 100%;
+    height: 800px;
+    background-color: chocolate;
+}
+
+#games {
+    background-color: darkred;
+    width: 100;
+    height: 800;
+
+
+}
+
+.lines {
+    height: 6px;
+    background-color: brown;
+    width: 70px;
+    margin: 9px auto;
+
+}
+
+img {
+
+    transition: transform .2s;
+}
+
+img:hover {
+    transform: scale(0.9);
+}
